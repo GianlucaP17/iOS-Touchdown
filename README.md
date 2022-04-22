@@ -30,12 +30,3 @@ How to develop a custom navigation bar,
 How to proportionally resize the size of an item in the Page Tab view,
 
 How to optimize the app for different screen sizes,
-
-etc.
-
-App iconApp icon
-Touchdown appTouchdown app
-Products grid layoutProducts grid layout
-Product detail viewProduct detail view
-Dynamic colorsDynamic colors
-Screen sizes from mini to max proScreen sizes from mini to max pro
